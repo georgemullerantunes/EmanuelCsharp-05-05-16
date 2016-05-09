@@ -1,0 +1,9 @@
+C:\Users\George Müller\Documents\Projects\Exercicio10-ProceCalculaDivisaoLabel\Exercicio10-ProceCalculaDivisaoLabel\bin\Debug\Exercicio10-ProceCalculaDivisaoLabel.exe.config
+C:\Users\George Müller\Documents\Projects\Exercicio10-ProceCalculaDivisaoLabel\Exercicio10-ProceCalculaDivisaoLabel\obj\Debug\Exercicio10-ProceCalculaDivisaoLabel.csprojResolveAssemblyReference.cache
+C:\Users\George Müller\Documents\Projects\Exercicio10-ProceCalculaDivisaoLabel\Exercicio10-ProceCalculaDivisaoLabel\obj\Debug\Exercicio10_ProceCalculaDivisaoLabel.Form1.resources
+C:\Users\George Müller\Documents\Projects\Exercicio10-ProceCalculaDivisaoLabel\Exercicio10-ProceCalculaDivisaoLabel\obj\Debug\Exercicio10_ProceCalculaDivisaoLabel.Properties.Resources.resources
+C:\Users\George Müller\Documents\Projects\Exercicio10-ProceCalculaDivisaoLabel\Exercicio10-ProceCalculaDivisaoLabel\obj\Debug\Exercicio10-ProceCalculaDivisaoLabel.csproj.GenerateResource.Cache
+C:\Users\George Müller\Documents\Projects\Exercicio10-ProceCalculaDivisaoLabel\Exercicio10-ProceCalculaDivisaoLabel\bin\Debug\Exercicio10-ProceCalculaDivisaoLabel.exe
+C:\Users\George Müller\Documents\Projects\Exercicio10-ProceCalculaDivisaoLabel\Exercicio10-ProceCalculaDivisaoLabel\bin\Debug\Exercicio10-ProceCalculaDivisaoLabel.pdb
+C:\Users\George Müller\Documents\Projects\Exercicio10-ProceCalculaDivisaoLabel\Exercicio10-ProceCalculaDivisaoLabel\obj\Debug\Exercicio10-ProceCalculaDivisaoLabel.exe
+C:\Users\George Müller\Documents\Projects\Exercicio10-ProceCalculaDivisaoLabel\Exercicio10-ProceCalculaDivisaoLabel\obj\Debug\Exercicio10-ProceCalculaDivisaoLabel.pdb

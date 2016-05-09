@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio3-ConcatenaStrings\Exercicio3-ConcatenaStrings\bin\Debug\Exercicio3-ConcatenaStrings.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio3-ConcatenaStrings\Exercicio3-ConcatenaStrings\bin\Debug\Exercicio3-ConcatenaStrings.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio3-ConcatenaStrings\Exercicio3-ConcatenaStrings\bin\Debug\Exercicio3-ConcatenaStrings.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio3-ConcatenaStrings\Exercicio3-ConcatenaStrings\obj\Debug\Exercicio3-ConcatenaStrings.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio3-ConcatenaStrings\Exercicio3-ConcatenaStrings\obj\Debug\Exercicio3_ConcatenaStrings.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio3-ConcatenaStrings\Exercicio3-ConcatenaStrings\obj\Debug\Exercicio3_ConcatenaStrings.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio3-ConcatenaStrings\Exercicio3-ConcatenaStrings\obj\Debug\Exercicio3-ConcatenaStrings.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio3-ConcatenaStrings\Exercicio3-ConcatenaStrings\obj\Debug\Exercicio3-ConcatenaStrings.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio3-ConcatenaStrings\Exercicio3-ConcatenaStrings\obj\Debug\Exercicio3-ConcatenaStrings.pdb

@@ -1,0 +1,9 @@
+C:\Users\George Müller\Documents\Projects\Exercicio2-FuncaoQuadrado\Exercicio2-FuncaoQuadrado\bin\Debug\Exercicio2-FuncaoQuadrado.exe.config
+C:\Users\George Müller\Documents\Projects\Exercicio2-FuncaoQuadrado\Exercicio2-FuncaoQuadrado\bin\Debug\Exercicio2-FuncaoQuadrado.exe
+C:\Users\George Müller\Documents\Projects\Exercicio2-FuncaoQuadrado\Exercicio2-FuncaoQuadrado\bin\Debug\Exercicio2-FuncaoQuadrado.pdb
+C:\Users\George Müller\Documents\Projects\Exercicio2-FuncaoQuadrado\Exercicio2-FuncaoQuadrado\obj\Debug\Exercicio2-FuncaoQuadrado.csprojResolveAssemblyReference.cache
+C:\Users\George Müller\Documents\Projects\Exercicio2-FuncaoQuadrado\Exercicio2-FuncaoQuadrado\obj\Debug\Exercicio2_FuncaoQuadrado.Form1.resources
+C:\Users\George Müller\Documents\Projects\Exercicio2-FuncaoQuadrado\Exercicio2-FuncaoQuadrado\obj\Debug\Exercicio2_FuncaoQuadrado.Properties.Resources.resources
+C:\Users\George Müller\Documents\Projects\Exercicio2-FuncaoQuadrado\Exercicio2-FuncaoQuadrado\obj\Debug\Exercicio2-FuncaoQuadrado.csproj.GenerateResource.Cache
+C:\Users\George Müller\Documents\Projects\Exercicio2-FuncaoQuadrado\Exercicio2-FuncaoQuadrado\obj\Debug\Exercicio2-FuncaoQuadrado.exe
+C:\Users\George Müller\Documents\Projects\Exercicio2-FuncaoQuadrado\Exercicio2-FuncaoQuadrado\obj\Debug\Exercicio2-FuncaoQuadrado.pdb

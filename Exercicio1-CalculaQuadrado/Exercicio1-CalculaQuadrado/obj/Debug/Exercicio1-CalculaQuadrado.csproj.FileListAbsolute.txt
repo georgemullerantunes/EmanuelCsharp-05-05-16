@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio1-CalculaQuadrado\Exercicio1-CalculaQuadrado\bin\Debug\Exercicio1-CalculaQuadrado.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio1-CalculaQuadrado\Exercicio1-CalculaQuadrado\bin\Debug\Exercicio1-CalculaQuadrado.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio1-CalculaQuadrado\Exercicio1-CalculaQuadrado\bin\Debug\Exercicio1-CalculaQuadrado.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio1-CalculaQuadrado\Exercicio1-CalculaQuadrado\obj\Debug\Exercicio1-CalculaQuadrado.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio1-CalculaQuadrado\Exercicio1-CalculaQuadrado\obj\Debug\Exercicio1_CalculaQuadrado.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio1-CalculaQuadrado\Exercicio1-CalculaQuadrado\obj\Debug\Exercicio1_CalculaQuadrado.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio1-CalculaQuadrado\Exercicio1-CalculaQuadrado\obj\Debug\Exercicio1-CalculaQuadrado.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio1-CalculaQuadrado\Exercicio1-CalculaQuadrado\obj\Debug\Exercicio1-CalculaQuadrado.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Exercicio1-CalculaQuadrado\Exercicio1-CalculaQuadrado\obj\Debug\Exercicio1-CalculaQuadrado.pdb

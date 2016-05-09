@@ -1,0 +1,9 @@
+C:\Users\George Müller\Documents\Projects\Exercicio7-ProcedCalculaExibeProduto\Exercicio7-ProcedCalculaExibeProduto\bin\Debug\Exercicio7-ProcedCalculaExibeProduto.exe.config
+C:\Users\George Müller\Documents\Projects\Exercicio7-ProcedCalculaExibeProduto\Exercicio7-ProcedCalculaExibeProduto\bin\Debug\Exercicio7-ProcedCalculaExibeProduto.exe
+C:\Users\George Müller\Documents\Projects\Exercicio7-ProcedCalculaExibeProduto\Exercicio7-ProcedCalculaExibeProduto\bin\Debug\Exercicio7-ProcedCalculaExibeProduto.pdb
+C:\Users\George Müller\Documents\Projects\Exercicio7-ProcedCalculaExibeProduto\Exercicio7-ProcedCalculaExibeProduto\obj\Debug\Exercicio7-ProcedCalculaExibeProduto.csprojResolveAssemblyReference.cache
+C:\Users\George Müller\Documents\Projects\Exercicio7-ProcedCalculaExibeProduto\Exercicio7-ProcedCalculaExibeProduto\obj\Debug\Exercicio7_ProcedCalculaExibeProduto.Form1.resources
+C:\Users\George Müller\Documents\Projects\Exercicio7-ProcedCalculaExibeProduto\Exercicio7-ProcedCalculaExibeProduto\obj\Debug\Exercicio7_ProcedCalculaExibeProduto.Properties.Resources.resources
+C:\Users\George Müller\Documents\Projects\Exercicio7-ProcedCalculaExibeProduto\Exercicio7-ProcedCalculaExibeProduto\obj\Debug\Exercicio7-ProcedCalculaExibeProduto.csproj.GenerateResource.Cache
+C:\Users\George Müller\Documents\Projects\Exercicio7-ProcedCalculaExibeProduto\Exercicio7-ProcedCalculaExibeProduto\obj\Debug\Exercicio7-ProcedCalculaExibeProduto.exe
+C:\Users\George Müller\Documents\Projects\Exercicio7-ProcedCalculaExibeProduto\Exercicio7-ProcedCalculaExibeProduto\obj\Debug\Exercicio7-ProcedCalculaExibeProduto.pdb

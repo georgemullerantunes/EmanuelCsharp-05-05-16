@@ -1,0 +1,9 @@
+C:\Users\George Müller\Documents\Projects\Exercicio12-FuncTodasOperacoes\Exercicio12-FuncTodasOperacoes\bin\Debug\Exercicio12-FuncTodasOperacoes.exe.config
+C:\Users\George Müller\Documents\Projects\Exercicio12-FuncTodasOperacoes\Exercicio12-FuncTodasOperacoes\bin\Debug\Exercicio12-FuncTodasOperacoes.exe
+C:\Users\George Müller\Documents\Projects\Exercicio12-FuncTodasOperacoes\Exercicio12-FuncTodasOperacoes\bin\Debug\Exercicio12-FuncTodasOperacoes.pdb
+C:\Users\George Müller\Documents\Projects\Exercicio12-FuncTodasOperacoes\Exercicio12-FuncTodasOperacoes\obj\Debug\Exercicio12-FuncTodasOperacoes.csprojResolveAssemblyReference.cache
+C:\Users\George Müller\Documents\Projects\Exercicio12-FuncTodasOperacoes\Exercicio12-FuncTodasOperacoes\obj\Debug\Exercicio12_FuncTodasOperacoes.Form1.resources
+C:\Users\George Müller\Documents\Projects\Exercicio12-FuncTodasOperacoes\Exercicio12-FuncTodasOperacoes\obj\Debug\Exercicio12_FuncTodasOperacoes.Properties.Resources.resources
+C:\Users\George Müller\Documents\Projects\Exercicio12-FuncTodasOperacoes\Exercicio12-FuncTodasOperacoes\obj\Debug\Exercicio12-FuncTodasOperacoes.csproj.GenerateResource.Cache
+C:\Users\George Müller\Documents\Projects\Exercicio12-FuncTodasOperacoes\Exercicio12-FuncTodasOperacoes\obj\Debug\Exercicio12-FuncTodasOperacoes.exe
+C:\Users\George Müller\Documents\Projects\Exercicio12-FuncTodasOperacoes\Exercicio12-FuncTodasOperacoes\obj\Debug\Exercicio12-FuncTodasOperacoes.pdb
