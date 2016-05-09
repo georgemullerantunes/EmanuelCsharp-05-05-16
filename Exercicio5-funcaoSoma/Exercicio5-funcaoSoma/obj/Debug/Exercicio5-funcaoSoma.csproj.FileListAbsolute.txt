@@ -1,8 +1,0 @@
-c:\users\aluno\documents\visual studio 2015\Projects\Exercicio5-funcaoSoma\Exercicio5-funcaoSoma\bin\Debug\Exercicio5-funcaoSoma.exe.config
-c:\users\aluno\documents\visual studio 2015\Projects\Exercicio5-funcaoSoma\Exercicio5-funcaoSoma\bin\Debug\Exercicio5-funcaoSoma.exe
-c:\users\aluno\documents\visual studio 2015\Projects\Exercicio5-funcaoSoma\Exercicio5-funcaoSoma\bin\Debug\Exercicio5-funcaoSoma.pdb
-c:\users\aluno\documents\visual studio 2015\Projects\Exercicio5-funcaoSoma\Exercicio5-funcaoSoma\obj\Debug\Exercicio5_funcaoSoma.Form1.resources
-c:\users\aluno\documents\visual studio 2015\Projects\Exercicio5-funcaoSoma\Exercicio5-funcaoSoma\obj\Debug\Exercicio5_funcaoSoma.Properties.Resources.resources
-c:\users\aluno\documents\visual studio 2015\Projects\Exercicio5-funcaoSoma\Exercicio5-funcaoSoma\obj\Debug\Exercicio5-funcaoSoma.csproj.GenerateResource.Cache
-c:\users\aluno\documents\visual studio 2015\Projects\Exercicio5-funcaoSoma\Exercicio5-funcaoSoma\obj\Debug\Exercicio5-funcaoSoma.exe
-c:\users\aluno\documents\visual studio 2015\Projects\Exercicio5-funcaoSoma\Exercicio5-funcaoSoma\obj\Debug\Exercicio5-funcaoSoma.pdb

@@ -1,9 +1,0 @@
-C:\Users\George Müller\Documents\Projects\Exercicio9-ProceCalculaDivisao\Exercicio9-ProceCalculaDivisao\bin\Debug\Exercicio9-ProceCalculaDivisao.exe.config
-C:\Users\George Müller\Documents\Projects\Exercicio9-ProceCalculaDivisao\Exercicio9-ProceCalculaDivisao\bin\Debug\Exercicio9-ProceCalculaDivisao.exe
-C:\Users\George Müller\Documents\Projects\Exercicio9-ProceCalculaDivisao\Exercicio9-ProceCalculaDivisao\bin\Debug\Exercicio9-ProceCalculaDivisao.pdb
-C:\Users\George Müller\Documents\Projects\Exercicio9-ProceCalculaDivisao\Exercicio9-ProceCalculaDivisao\obj\Debug\Exercicio9-ProceCalculaDivisao.csprojResolveAssemblyReference.cache
-C:\Users\George Müller\Documents\Projects\Exercicio9-ProceCalculaDivisao\Exercicio9-ProceCalculaDivisao\obj\Debug\Exercicio9_ProceCalculaDivisao.Form1.resources
-C:\Users\George Müller\Documents\Projects\Exercicio9-ProceCalculaDivisao\Exercicio9-ProceCalculaDivisao\obj\Debug\Exercicio9_ProceCalculaDivisao.Properties.Resources.resources
-C:\Users\George Müller\Documents\Projects\Exercicio9-ProceCalculaDivisao\Exercicio9-ProceCalculaDivisao\obj\Debug\Exercicio9-ProceCalculaDivisao.csproj.GenerateResource.Cache
-C:\Users\George Müller\Documents\Projects\Exercicio9-ProceCalculaDivisao\Exercicio9-ProceCalculaDivisao\obj\Debug\Exercicio9-ProceCalculaDivisao.exe
-C:\Users\George Müller\Documents\Projects\Exercicio9-ProceCalculaDivisao\Exercicio9-ProceCalculaDivisao\obj\Debug\Exercicio9-ProceCalculaDivisao.pdb

@@ -1,8 +1,0 @@
-C:\Users\George Müller\Documents\Projects\Exercicio6-ProcedCalculaExibeSoma\Exercicio6-ProcedCalculaExibeSoma\bin\Debug\Exercicio6-ProcedCalculaExibeSoma.exe.config
-C:\Users\George Müller\Documents\Projects\Exercicio6-ProcedCalculaExibeSoma\Exercicio6-ProcedCalculaExibeSoma\bin\Debug\Exercicio6-ProcedCalculaExibeSoma.exe
-C:\Users\George Müller\Documents\Projects\Exercicio6-ProcedCalculaExibeSoma\Exercicio6-ProcedCalculaExibeSoma\bin\Debug\Exercicio6-ProcedCalculaExibeSoma.pdb
-C:\Users\George Müller\Documents\Projects\Exercicio6-ProcedCalculaExibeSoma\Exercicio6-ProcedCalculaExibeSoma\obj\Debug\Exercicio6_ProcedCalculaExibeSoma.Form1.resources
-C:\Users\George Müller\Documents\Projects\Exercicio6-ProcedCalculaExibeSoma\Exercicio6-ProcedCalculaExibeSoma\obj\Debug\Exercicio6_ProcedCalculaExibeSoma.Properties.Resources.resources
-C:\Users\George Müller\Documents\Projects\Exercicio6-ProcedCalculaExibeSoma\Exercicio6-ProcedCalculaExibeSoma\obj\Debug\Exercicio6-ProcedCalculaExibeSoma.csproj.GenerateResource.Cache
-C:\Users\George Müller\Documents\Projects\Exercicio6-ProcedCalculaExibeSoma\Exercicio6-ProcedCalculaExibeSoma\obj\Debug\Exercicio6-ProcedCalculaExibeSoma.exe
-C:\Users\George Müller\Documents\Projects\Exercicio6-ProcedCalculaExibeSoma\Exercicio6-ProcedCalculaExibeSoma\obj\Debug\Exercicio6-ProcedCalculaExibeSoma.pdb
